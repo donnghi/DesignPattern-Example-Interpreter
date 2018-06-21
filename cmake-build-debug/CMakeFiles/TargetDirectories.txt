@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Intepreter-DesignPattern/cmake-build-debug/CMakeFiles/Intepreter_DesignPattern.dir
+C:/Users/pc/CLionProjects/Intepreter-DesignPattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Intepreter-DesignPattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
